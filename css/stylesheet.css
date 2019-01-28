@@ -1,0 +1,42 @@
+/***********
+ Styles
+ **********/
+.body
+    {
+        background-color: darkblue
+    }
+.cdda
+    {
+        background-color: white;
+    }
+p
+    {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+    }
+h1
+    {
+        color: white;
+        text-align: center;
+    }
+a
+    {
+        color: lightgreen;
+        text-align: center;
+        font-size: 75%;
+    }
+.button
+    {
+        size: auto;
+    }
+h2
+    {
+        width: auto;
+        height: auto;
+        border: solid;
+        padding: inherit;
+        margin: auto;
+        outline: blue;
+        display: block;
+    }
