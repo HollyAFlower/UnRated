@@ -1,1 +1,1 @@
-var i = 0;
+document.getElementById("demo").innerHTML = 5 + 6;
