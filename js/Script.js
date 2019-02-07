@@ -11,4 +11,4 @@ function MyFunction() {
   } else {
     document.getElementById("demo").innerHTML = "You didn't type anything silly.";
   }
-}
+},
