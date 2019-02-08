@@ -11,4 +11,12 @@ function MyFunction() {
   } else {
     document.getElementById("demo").innerHTML = "You didn't type anything silly.";
   }
-},
+}
+function Add() {
+  var I1 = Number(prompt("Type a number.", 0));
+  var I2 = Number(prompt("Tupe a second number.", 1));
+  var I3 = I1 + I2;
+  if (true) {
+    document.getElementById("demo2").innerHTML = "The sum of " + I1 + " and " + I2 + " is " + I3 + ".";
+  }
+}
