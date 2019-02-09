@@ -29,8 +29,8 @@ function Multiply() {
   }
 }
 function Devide() {
-  var I1 = Number(prompt("Type a number.", 0));
-  var I2 = Number(prompt("Type a second number.", 1));
+  var I1 = Number(prompt("Type a number.", 4));
+  var I2 = Number(prompt("Type a second number.", 2));
   var I3 = I1 / I2;
   if (true) {
     document.getElementById("demo2").innerHTML = "The devisor of " + I1 + " and " + I2 + " is " + I3 + ".";
